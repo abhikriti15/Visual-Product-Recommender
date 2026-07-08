@@ -1,33 +1,45 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+
 # Virtual Environment
 venv/
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Jupyter
-.ipynb_checkpoints/
 
 # VS Code
 .vscode/
 
-# Model files
-*.h5
-*.keras
-*.ckpt
-*.pb
+# Jupyter
+.ipynb_checkpoints/
 
-# FAISS Index
-*.index
+# ===========================
+# Dataset
+# ===========================
+data/raw/images/
+data/raw/*.csv
 
-# Logs
-logs/
+data/subset/
+data/processed/
+
+# Embeddings
+data/embeddings/
 
 # Outputs
 outputs/
 
-# Dataset
-data/raw/images/
+# Saved Models
+models/saved_models/
 
-# Mac
+# TensorFlow
+*.h5
+*.keras
+*.ckpt
+
+# FAISS
+*.index
+
+# OS Files
 .DS_Store
+Thumbs.db

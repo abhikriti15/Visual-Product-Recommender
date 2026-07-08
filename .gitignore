@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+*.pb
+
+# FAISS Index
+*.index
+
+# Logs
+logs/
+
+# Outputs
+outputs/
+
+# Dataset
+data/raw/images/
+
+# Mac
+.DS_Store

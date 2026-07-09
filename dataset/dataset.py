@@ -37,8 +37,6 @@ def load_image(image_path, label):
 
     image = tf.cast(image, tf.float32)
 
-    image = image / 255.0
-
     return image, label
 
 

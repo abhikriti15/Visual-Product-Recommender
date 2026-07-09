@@ -6,9 +6,10 @@ TensorFlow Dataset Loader
 Loads images from CSV files and creates tf.data.Dataset
 objects for training, validation and testing.
 
+Works in:
+1. Local VS Code
+2. Google Colab
 """
-
-from pathlib import Path
 
 import pandas as pd
 import tensorflow as tf
@@ -25,10 +26,6 @@ from configs.config import (
 
 def load_image(image_path, label):
 
-    image_path = tf.strings.join(
-        [str(PROJECT_ROOT) + "/", image_path]
-    )
-
     image = tf.io.read_file(image_path)
 
     image = tf.image.decode_jpeg(image, channels=3)
@@ -44,16 +41,40 @@ def load_image(image_path, label):
 # Create Dataset
 # =========================================================
 
-def create_dataset(csv_path, label_mapping, shuffle=True):
+def create_dataset(
+    csv_path,
+    label_mapping,
+    shuffle=True,
+    colab=False
+):
 
     df = pd.read_csv(csv_path)
 
-    image_paths = df["image_path"].values
+    # --------------------------------------------
+    # Image Paths
+    # --------------------------------------------
 
-    labels = df["subset_category"].map(label_mapping).values
+    if colab:
+
+        df["image_path"] = df["id"].apply(
+            lambda x: f"/content/myntradataset/images/{x}.jpg"
+        )
+
+    else:
+
+        df["image_path"] = df["image_path"].apply(
+            lambda x: str(PROJECT_ROOT / x)
+        )
+
+    labels = df["subset_category"].map(
+        label_mapping
+    ).values
 
     dataset = tf.data.Dataset.from_tensor_slices(
-        (image_paths, labels)
+        (
+            df["image_path"].values,
+            labels
+        )
     )
 
     dataset = dataset.map(

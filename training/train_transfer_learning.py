@@ -5,10 +5,10 @@ Transfer Learning Training
 
 Fine-tunes ResNet50 on Fashion Product Images.
 
-Author: Abhikriti Saxena
 """
 
 import tensorflow as tf
+COLAB = False
 
 from tensorflow.keras.applications import ResNet50
 from tensorflow.keras.applications.resnet50 import preprocess_input
@@ -34,7 +34,7 @@ from configs.config import (
 )
 
 import pandas as pd
-
+from configs.config import OUTPUTS_DIR
 # =====================================================
 # Load Metadata
 # =====================================================
@@ -60,15 +60,16 @@ print(label_mapping)
 train_dataset = create_dataset(
     train_csv,
     label_mapping,
-    shuffle=True
+    shuffle=True,
+    colab=COLAB
 )
 
 val_dataset = create_dataset(
     val_csv,
     label_mapping,
-    shuffle=False
+    shuffle=False,
+    colab=COLAB
 )
-
 
 base_model = ResNet50(
 
@@ -84,10 +85,13 @@ base_model = ResNet50(
 
 )
 
-
-for layer in base_model.layers:
-
+# Freeze early layers
+for layer in base_model.layers[:-30]:
     layer.trainable = False
+
+# Fine-tune last layers
+for layer in base_model.layers[-30:]:
+    layer.trainable = True
 
 inputs = Input(shape=(
     IMAGE_SIZE[0],
@@ -105,13 +109,11 @@ x = base_model(
 x = GlobalAveragePooling2D()(x)
 
 x = Dense(
-    256,
+    512,
     activation="relu"
 )(x)
 
-x = Dropout(
-    0.3
-)(x)
+x = Dropout(0.5)(x)
 
 outputs = Dense(
     num_classes,
@@ -137,6 +139,44 @@ model.compile(
 
 model.summary()
 
+from tensorflow.keras.callbacks import (
+    EarlyStopping,
+    ModelCheckpoint,
+    ReduceLROnPlateau
+)
+
+
+MODELS_DIR.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+BEST_MODEL_PATH = MODELS_DIR / "fashion_resnet50.keras"
+
+callbacks = [
+
+    EarlyStopping(
+        monitor="val_loss",
+        patience=3,
+        restore_best_weights=True
+    ),
+
+    ReduceLROnPlateau(
+        monitor="val_loss",
+        factor=0.2,
+        patience=2,
+        verbose=1
+    ),
+
+    ModelCheckpoint(
+        filepath=BEST_MODEL_PATH,
+        monitor="val_accuracy",
+        save_best_only=True,
+        verbose=1
+    )
+
+]
+
 #Train
 
 history = model.fit(
@@ -145,22 +185,56 @@ history = model.fit(
 
     validation_data=val_dataset,
 
-    epochs=EPOCHS
+    epochs=EPOCHS,
+
+    callbacks=callbacks
 
 )
 
-#Save Model
 
-MODELS_DIR.mkdir(
+test_csv = SUBSET_DIR / "test.csv"
+
+test_dataset = create_dataset(
+    test_csv,
+    label_mapping,
+    shuffle=False,
+    colab=COLAB
+)
+
+test_loss, test_acc = model.evaluate(test_dataset)
+
+print(f"\nTest Accuracy : {test_acc:.4f}")
+print(f"Test Loss     : {test_loss:.4f}")
+
+OUTPUTS_DIR.mkdir(
     parents=True,
     exist_ok=True
 )
 
-model.save(
+import matplotlib.pyplot as plt
 
-    MODELS_DIR /
-    "fashion_resnet50.keras"
+plt.figure(figsize=(12,5))
 
+plt.subplot(1,2,1)
+plt.plot(history.history["accuracy"], label="Train")
+plt.plot(history.history["val_accuracy"], label="Validation")
+plt.title("Accuracy")
+plt.legend()
+
+plt.subplot(1,2,2)
+plt.plot(history.history["loss"], label="Train")
+plt.plot(history.history["val_loss"], label="Validation")
+plt.title("Loss")
+plt.legend()
+
+plt.savefig(
+    OUTPUTS_DIR / "training_curves.png",
+    dpi=300,
+    bbox_inches="tight"
 )
 
-print("\nModel Saved Successfully!")
+plt.show()
+
+print("\nTraining Completed Successfully!")
+
+print(f"\nBest Model Saved At:\n{BEST_MODEL_PATH}")

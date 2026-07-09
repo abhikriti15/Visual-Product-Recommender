@@ -80,6 +80,10 @@ for category in SELECTED_CATEGORIES:
 
     sampled_df["subset_category"] = category
 
+    sampled_df["image_path"] = sampled_df["id"].apply(
+        lambda x: f"data/subset/{category}/{x}.jpg"
+)
+
     subset_list.append(sampled_df)
 
     print(f"Copied Images : {copied}")

@@ -30,11 +30,11 @@ PROCESSED_DIR = DATA_DIR / "processed"
 
 SUBSET_DIR = DATA_DIR / "subset"
 
-EMBEDDING_DIR = DATA_DIR / "embeddings"
+EMBEDDINGS_DIR = DATA_DIR / "embeddings"
 
-OUTPUT_DIR = PROJECT_ROOT / "outputs"
+OUTPUTS_DIR = PROJECT_ROOT / "outputs"
 
-MODEL_DIR = PROJECT_ROOT / "models" / "saved_models"
+MODELS_DIR = PROJECT_ROOT / "models" / "saved_models"
 
 # =========================================================
 # Image Settings

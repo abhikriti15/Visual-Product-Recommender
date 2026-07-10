@@ -79,7 +79,7 @@ TEST_SPLIT = 0.15
 # Model Settings
 # =========================================================
 
-BATCH_SIZE = 32
+BATCH_SIZE = 8
 
 EPOCHS = 15
 

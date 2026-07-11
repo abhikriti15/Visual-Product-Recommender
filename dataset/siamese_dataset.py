@@ -64,7 +64,7 @@ def create_pairs():
 
         images = grouped[category]
 
-        MAX_POSITIVE_PER_CLASS = 1000
+        MAX_POSITIVE_PER_CLASS = 300
 
         count = 0
 

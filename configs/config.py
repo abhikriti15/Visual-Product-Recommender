@@ -79,9 +79,9 @@ TEST_SPLIT = 0.15
 # Model Settings
 # =========================================================
 
-BATCH_SIZE = 8
+BATCH_SIZE = 2     
 
-EPOCHS = 15
+EPOCHS = 3
 
 LEARNING_RATE = 1e-4
 

@@ -105,18 +105,18 @@ def create_dataset(
 
     )
 
+    dataset = dataset.cache()
+
     if shuffle:
 
         dataset = dataset.shuffle(
-            buffer_size=len(labels)
+            buffer_size=512
         )
 
     dataset = dataset.batch(
         BATCH_SIZE
     )
 
-    dataset = dataset.prefetch(
-        tf.data.AUTOTUNE
-    )
+    dataset = dataset.prefetch(1)
 
     return dataset

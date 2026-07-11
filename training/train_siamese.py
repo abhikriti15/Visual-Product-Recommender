@@ -6,7 +6,6 @@ Train Siamese Network
 Trains the Siamese Network using
 Contrastive Loss.
 
-Author : Abhikriti Saxena
 """
 
 import tensorflow as tf
@@ -254,24 +253,22 @@ callbacks=[
 # Train
 # ==========================================================
 
-history=model.fit(
-
-    dataset,
-
-    epochs=10,
-
-    callbacks=callbacks
-
-)
+# history=model.fit(
+#     dataset,
+#     epochs=10,
+#     callbacks=callbacks
+# )
 
 print("\nTraining Finished!")
 
 print(
-
     "\nSaved Model :",
-
-    MODELS_DIR/
-
-    "siamese_model.keras"
-
+    MODELS_DIR / "siamese_model.keras"
 )
+
+# Save encoder separately
+encoder.save(
+    MODELS_DIR / "siamese_encoder.keras"
+)
+
+print("\nEncoder Saved Successfully!")

@@ -87,3 +87,4 @@ if __name__ == "__main__":
     encoder = load_finetuned_encoder()
 
     encoder.summary()
+

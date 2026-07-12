@@ -1,31 +1,26 @@
-"""
-=========================================================
-ResNet50 Feature Extractor
-=========================================================
-
-Loads a pretrained ResNet50 model and converts images
-into 2048-dimensional feature embeddings.
-
-"""
-
 import numpy as np
-import tensorflow as tf
 
-from tensorflow.keras.applications import ResNet50
-from tensorflow.keras.applications.resnet50 import preprocess_input
+from tensorflow.keras.models import load_model, Model
 from tensorflow.keras.preprocessing import image
+from tensorflow.keras.applications.resnet50 import preprocess_input
 
-from configs.config import IMAGE_SIZE
+from configs.config import IMAGE_SIZE, MODELS_DIR
 
 
 class ResNet50FeatureExtractor:
 
     def __init__(self):
 
-        self.model = ResNet50(
-            weights="imagenet",
-            include_top=False,
-            pooling="avg"
+        model = load_model(
+            MODELS_DIR / "fashion_resnet50.keras",
+            compile=False
+        )
+
+        self.model = Model(
+            inputs=model.input,
+            outputs=model.get_layer(
+                "global_average_pooling2d"
+            ).output
         )
 
     def extract(self, image_path):
@@ -44,11 +39,8 @@ class ResNet50FeatureExtractor:
         embedding = self.model.predict(
             img,
             verbose=0
-        )
+        ).flatten()
 
-        embedding = embedding.flatten()
-
-        # L2 Normalization
         embedding = embedding / np.linalg.norm(embedding)
 
-        return embedding
+        return embedding    

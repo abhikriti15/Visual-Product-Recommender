@@ -8,7 +8,7 @@ Author : Abhikriti Saxena
 
 import sys
 import os
-
+from pathlib import Path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from configs.config import EMBEDDINGS_DIR
@@ -40,10 +40,6 @@ st.set_page_config(
     layout="wide"
 )
 
-# Fixed thumbnail size used everywhere a product image is rendered.
-# Keeping this consistent (and pre-resizing with LANCZOS) is what
-# removes the blur you get from letting the browser stretch small
-# source images up to an arbitrary column width.
 THUMB_SIZE = (400, 400)
 
 # ==========================================================
@@ -267,16 +263,10 @@ Deep Learning • Transfer Learning • Fine-Tuned ResNet50 • Siamese Network
 # ==========================================================
 
 def image_to_base64(img: Image.Image, size: tuple = THUMB_SIZE) -> str:
-    """
-    Resize an image with high-quality LANCZOS resampling and return
-    it as a base64 JPEG string. Pre-resizing this way (instead of
-    letting the browser stretch a small source image with
-    use_container_width) is what removes the blur/pixelation.
-    """
+    
+
     img = img.convert("RGB")
 
-    # Center-crop to a square first so object-fit:cover in CSS doesn't
-    # have to guess how to crop mismatched aspect ratios badly.
     w, h = img.size
     side = min(w, h)
     left = (w - side) // 2
@@ -292,9 +282,18 @@ def image_to_base64(img: Image.Image, size: tuple = THUMB_SIZE) -> str:
 
 
 @st.cache_data(show_spinner=False)
-def load_and_encode_thumb(path: str) -> str:
-    """Cached so we don't re-resize the same dataset image every rerun."""
+def load_and_encode_thumb(path):
+
+    path = Path(path)
+
+    if not path.exists():
+
+        st.error(f"Image not found:\n{path}")
+
+        return ""
+
     img = Image.open(path)
+
     return image_to_base64(img)
 
 
@@ -321,6 +320,24 @@ def load_resources():
     ) as f:
 
         image_paths = pickle.load(f)
+
+    PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+    fixed_paths = []
+
+    for p in image_paths:
+
+        p = str(p).replace("\\", "/")
+
+        # remove leading data/ if present
+        if p.startswith("data/"):
+            p = p[5:]
+
+        full_path = PROJECT_ROOT / "data" / p
+
+        fixed_paths.append(full_path)
+
+    image_paths = fixed_paths
 
     return extractor, embeddings, metadata, image_paths
 

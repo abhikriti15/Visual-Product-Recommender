@@ -20,7 +20,6 @@ venv/
 data/raw/images/
 data/raw/*.csv
 
-data/subset/
 data/processed/
 
 # Embeddings

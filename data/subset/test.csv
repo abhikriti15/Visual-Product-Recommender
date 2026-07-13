@@ -1,0 +1,451 @@
+id,gender,masterCategory,subCategory,articleType,baseColour,season,year,usage,productDisplayName,subset_category,image_path
+3991,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Mr.Men Men's Wave Rider White T-shirt,Tshirts,data/subset/Tshirts/3991.jpg
+45364,Women,Footwear,Shoes,Heels,Beige,Summer,2016.0,Casual,Cobblerz Women Beige Sandals,Heels,data/subset/Heels/45364.jpg
+19853,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,U.S. Polo Assn. Men Striped Blue Shirt,Shirts,data/subset/Shirts/19853.jpg
+43651,Women,Apparel,Topwear,Tops,White,Summer,2012.0,Casual,ONLY Women White Top,Tops,data/subset/Tops/43651.jpg
+57529,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2012.0,Casual,Provogue Men Brown Casual Shoes,Casual Shoes,data/subset/Casual Shoes/57529.jpg
+44553,Men,Footwear,Sandal,Sandals,Brown,Summer,2012.0,Casual,Coolers Men Brown Sandals,Sandals,data/subset/Sandals/44553.jpg
+36900,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Fossil Men White Dial Chronograph Watch FS4640,Watches,data/subset/Watches/36900.jpg
+21047,Women,Footwear,Shoes,Heels,White,Fall,2011.0,Casual,Clarks Women Santa Cruz White Flats,Heels,data/subset/Heels/21047.jpg
+20386,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Baggit Women Black Praise Taj Handbag,Handbags,data/subset/Handbags/20386.jpg
+8492,Women,Apparel,Topwear,Tops,Peach,Fall,2011.0,Casual,Forever New Women Peony Peach Top,Tops,data/subset/Tops/8492.jpg
+15700,Women,Footwear,Shoes,Heels,Pink,Winter,2015.0,Casual,Catwalk Women Casual Pink Flats,Heels,data/subset/Heels/15700.jpg
+5489,Men,Apparel,Topwear,Tshirts,Purple,Summer,2011.0,Casual,Mr.Men Men's Grumpy Purple T-shirt,Tshirts,data/subset/Tshirts/5489.jpg
+4604,Women,Accessories,Bags,Handbags,Pink,Winter,2015.0,Casual,Wildcraft Pink & Grey Printed Tote Bag,Handbags,data/subset/Handbags/4604.jpg
+7441,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,Proline Men Grey Striped T-shirt,Tshirts,data/subset/Tshirts/7441.jpg
+54392,Women,Accessories,Bags,Handbags,Red,Summer,2012.0,Casual,Baggit Women Red Handbag,Handbags,data/subset/Handbags/54392.jpg
+40658,Women,Apparel,Topwear,Kurtas,Multi,Summer,2012.0,Ethnic,Span Women Multi Coloured Kurta,Kurtas,data/subset/Kurtas/40658.jpg
+15933,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Regent Polo Club Men Solid Blue Tshirt,Tshirts,data/subset/Tshirts/15933.jpg
+17692,Men,Footwear,Shoes,Casual Shoes,Red,Spring,2012.0,Casual,Vans Men Rowley Style 99 S Red Casual Shoes,Casual Shoes,data/subset/Casual Shoes/17692.jpg
+39815,Men,Footwear,Sandal,Sandals,Black,Summer,2013.0,Casual,Red Tape Men Black Sandals,Sandals,data/subset/Sandals/39815.jpg
+50756,Men,Footwear,Sandal,Sandals,Brown,Winter,2018.0,Casual,Red Chief Men Brown Sandals,Sandals,data/subset/Sandals/50756.jpg
+8447,Women,Apparel,Topwear,Tops,Navy Blue,Fall,2011.0,Casual,Jealous 21 Women Jealous Palila Purple Top Purple Tops,Tops,data/subset/Tops/8447.jpg
+17422,Women,Accessories,Watches,Watches,Pink,Winter,2016.0,Casual,Casio Enticer Women Pink Analogue Watches (SH60) LTP-2069L-4AVDF,Watches,data/subset/Watches/17422.jpg
+2876,Women,Footwear,Shoes,Heels,Black,Winter,2015.0,Casual,Catwalk Women Party Heeled Strap Black Heels,Heels,data/subset/Heels/2876.jpg
+33876,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Citizen Men Black Dial Chronograph Watch,Watches,data/subset/Watches/33876.jpg
+44814,Women,Apparel,Topwear,Tops,Maroon,Summer,2012.0,Casual,Spykar Women Maroon Top,Tops,data/subset/Tops/44814.jpg
+54941,Women,Apparel,Topwear,Tops,Teal,Summer,2012.0,Casual,Do u speak green Women Teal Top,Tops,data/subset/Tops/54941.jpg
+7181,Women,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Jealous 21 Women Off White Flower Printed Top,Tops,data/subset/Tops/7181.jpg
+42565,Women,Apparel,Topwear,Tops,Green,Summer,2012.0,Casual,Mother Earth Women Green Top,Tops,data/subset/Tops/42565.jpg
+33649,Men,Footwear,Sandal,Sandals,Black,Summer,2012.0,Casual,Lotto Men Stride Black Sandals,Sandals,data/subset/Sandals/33649.jpg
+29979,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Aspen Women Mother Of Pearl Dial Watch,Watches,data/subset/Watches/29979.jpg
+17845,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Nike Men T90 Shoot I\/ HG-B White Sports Shoe,Sports Shoes,data/subset/Sports Shoes/17845.jpg
+49497,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Summer,2012.0,Casual,Vans Men Navy Blue Shoes,Casual Shoes,data/subset/Casual Shoes/49497.jpg
+26612,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Sports,Puma Men Cell Turin Perf 2 Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/26612.jpg
+56864,Women,Footwear,Shoes,Heels,Gold,Winter,2012.0,Casual,HM Women Golden Heels,Heels,data/subset/Heels/56864.jpg
+6130,Unisex,Footwear,Sandal,Sandals,Green,Summer,2011.0,Casual,Puma Unisex Scuba Black Green Floater,Sandals,data/subset/Sandals/6130.jpg
+28737,Women,Apparel,Topwear,Kurtas,White,Summer,2012.0,Ethnic,W Women Printed White Kurta,Kurtas,data/subset/Kurtas/28737.jpg
+41971,Girls,Apparel,Topwear,Tops,Blue,Summer,2012.0,Casual,Gini and Jony Girls Summer Up Blue Top,Tops,data/subset/Tops/41971.jpg
+4562,Women,Footwear,Shoes,Sports Shoes,White,Summer,2011.0,Sports,Nike Women Capri White Shoe,Sports Shoes,data/subset/Sports Shoes/4562.jpg
+7019,Women,Apparel,Topwear,Tops,White,Summer,2011.0,Casual,s.Oliver Women's White Blouse Top,Tops,data/subset/Tops/7019.jpg
+5975,Men,Apparel,Topwear,Shirts,Black,Summer,2011.0,Casual,Locomotive Men Black Maroon Purple Stripe Shirt,Shirts,data/subset/Shirts/5975.jpg
+51641,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fossil Men Black Dial Chronograph Watch FS4723,Watches,data/subset/Watches/51641.jpg
+5365,Unisex,Footwear,Shoes,Sports Shoes,Green,,2011.0,Sports,Solognac Shoes Namib 200,Sports Shoes,data/subset/Sports Shoes/5365.jpg
+1636,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Nike Men Air Zoom Century Shoes,Sports Shoes,data/subset/Sports Shoes/1636.jpg
+28325,Men,Footwear,Sandal,Sandals,Brown,Winter,2018.0,Casual,Red Tape Men Brown Sandals,Sandals,data/subset/Sandals/28325.jpg
+26178,Women,Footwear,Shoes,Heels,Black,Winter,2012.0,Casual,Rocia Women Black Heels,Heels,data/subset/Heels/26178.jpg
+33689,Men,Footwear,Shoes,Casual Shoes,White,Winter,2012.0,Casual,Cobblerz Men White & Blue Casual Shoes,Casual Shoes,data/subset/Casual Shoes/33689.jpg
+31046,Men,Apparel,Topwear,Shirts,Yellow,Summer,2012.0,Casual,Arrow Sport Men Check Yellow Shirt,Shirts,data/subset/Shirts/31046.jpg
+38008,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Q&Q Men Black Dial Watch,Watches,data/subset/Watches/38008.jpg
+33304,Boys,Apparel,Topwear,Tshirts,Yellow,Summer,2012.0,Casual,Gini and Jony Boys Pack of 2 T-shirts,Tshirts,data/subset/Tshirts/33304.jpg
+19400,Men,Apparel,Topwear,Tshirts,Navy Blue,Summer,2011.0,Casual,ADIDAS Men Navy Blue T-shirt,Tshirts,data/subset/Tshirts/19400.jpg
+49322,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,ADIDAS Originals Men Black Dial Watch ADH2651,Watches,data/subset/Watches/49322.jpg
+17044,Men,Footwear,Sandal,Sandals,Brown,Summer,2013.0,Casual,Gas Men Aventura Sandal,Sandals,data/subset/Sandals/17044.jpg
+28550,Men,Apparel,Topwear,Tshirts,Black,Summer,2012.0,Casual,Nike Men Club Pique Polo Black T-shirt,Tshirts,data/subset/Tshirts/28550.jpg
+49962,Men,Apparel,Topwear,Tshirts,White,Summer,2016.0,Casual,Hanes Men White Pack of 3 T-shirts,Tshirts,data/subset/Tshirts/49962.jpg
+26890,Women,Apparel,Topwear,Tops,Pink,Summer,2012.0,Casual,Jealous 21 Women Printed Pink Top,Tops,data/subset/Tops/26890.jpg
+46573,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,Timex Men Black Watch,Watches,data/subset/Watches/46573.jpg
+4342,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2011.0,Sports,Fila Men's Phoenix Black White Shoe,Sports Shoes,data/subset/Sports Shoes/4342.jpg
+12884,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Spykar Men Helmet Grey T-Shirts,Tshirts,data/subset/Tshirts/12884.jpg
+25272,Women,Accessories,Bags,Handbags,Red,Summer,2012.0,Casual,Lino Perros Women Leatherette Red Handbag,Handbags,data/subset/Handbags/25272.jpg
+15068,Men,Footwear,Sandal,Sandals,Black,Fall,2012.0,Casual,Ganuchi Men Black Sandal,Sandals,data/subset/Sandals/15068.jpg
+21522,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Kiara Women Classic Black Handbag,Handbags,data/subset/Handbags/21522.jpg
+17704,Unisex,Footwear,Shoes,Casual Shoes,Maroon,Fall,2011.0,Casual,Vans unisex Old Skool Red Casual Shoes,Casual Shoes,data/subset/Casual Shoes/17704.jpg
+58928,Women,Accessories,Bags,Handbags,Olive,Summer,2010.0,Casual,Ivory Tag Olive Dip Sling Bag,Handbags,data/subset/Handbags/58928.jpg
+22779,Women,Apparel,Topwear,Kurtas,Orange,Summer,2011.0,Ethnic,BIBA Women Printed Orange Kurta,Kurtas,data/subset/Kurtas/22779.jpg
+19104,Women,Apparel,Topwear,Kurtas,Beige,Fall,2011.0,Ethnic,Mother Earth Women Printed Beige Kurta,Kurtas,data/subset/Kurtas/19104.jpg
+15000,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,ADIDAS Men Solid White Tshirts,Tshirts,data/subset/Tshirts/15000.jpg
+58684,Women,Apparel,Topwear,Kurtas,Beige,Summer,2012.0,Ethnic,ALayna Women Printed Beige Kurta,Kurtas,data/subset/Kurtas/58684.jpg
+21038,Women,Footwear,Shoes,Heels,Black,Fall,2012.0,Casual,Clarks Women Balti Zing Black Heels,Heels,data/subset/Heels/21038.jpg
+20782,Women,Footwear,Shoes,Heels,Gold,Winter,2012.0,Casual,Carlton London Women Classy Gold Heels,Heels,data/subset/Heels/20782.jpg
+12864,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2012.0,Casual,Lee Cooper Men Casual Black Shoes,Casual Shoes,data/subset/Casual Shoes/12864.jpg
+37322,Women,Accessories,Watches,Watches,Pink,Winter,2016.0,Casual,CASIO Sheen Women Mother Of Pearl Dial Watch SX019 SHE-4022D-4ADR,Watches,data/subset/Watches/37322.jpg
+4282,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2011.0,Casual,Rockport Men Arratoon Brown Shoe,Casual Shoes,data/subset/Casual Shoes/4282.jpg
+6789,Men,Apparel,Topwear,Shirts,Green,Summer,2011.0,Casual,Timberland Men Meriden White Check Shirt,Shirts,data/subset/Shirts/6789.jpg
+36536,Women,Accessories,Bags,Handbags,Blue,Summer,2012.0,Casual,United Colors of Benetton Women Blue Sling Bag,Handbags,data/subset/Handbags/36536.jpg
+39687,Men,Footwear,Shoes,Casual Shoes,White,Summer,2012.0,Casual,Lotto Men White Casual Shoes,Casual Shoes,data/subset/Casual Shoes/39687.jpg
+44697,Women,Apparel,Topwear,Tops,Red,Fall,2012.0,Casual,Wills Lifestyle Red & White Checked Top,Tops,data/subset/Tops/44697.jpg
+59872,Women,Apparel,Topwear,Tops,Grey,Fall,2012.0,Casual,Femella Women Grey Top,Tops,data/subset/Tops/59872.jpg
+35808,Women,Footwear,Shoes,Heels,Cream,Summer,2012.0,Casual,Enroute Women Cream Flats,Heels,data/subset/Heels/35808.jpg
+12328,Men,Apparel,Topwear,Shirts,Blue,Winter,2011.0,Formal,Genesis Blue Formal Shirt,Shirts,data/subset/Shirts/12328.jpg
+47637,Women,Footwear,Shoes,Heels,Yellow,Spring,2013.0,Casual,Carlton London Women Yellow Peep Toes,Heels,data/subset/Heels/47637.jpg
+26659,Men,Footwear,Shoes,Casual Shoes,White,Summer,2012.0,Casual,Puma Men White Basics Shoes,Casual Shoes,data/subset/Casual Shoes/26659.jpg
+48371,Men,Apparel,Topwear,Shirts,Black,Summer,2012.0,Casual,French Connection Men Black Check Shirt,Shirts,data/subset/Shirts/48371.jpg
+40549,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Titan Women Black Watch,Watches,data/subset/Watches/40549.jpg
+16320,Men,Apparel,Topwear,Tshirts,Green,Fall,2011.0,Casual,Peter England Men Printed Green TShirt,Tshirts,data/subset/Tshirts/16320.jpg
+22826,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2012.0,Casual,Woodland Men Brown Casual Shoes,Casual Shoes,data/subset/Casual Shoes/22826.jpg
+17672,Women,Footwear,Shoes,Heels,Brown,Winter,2015.0,Casual,Catwalk Women Brown Pumps,Heels,data/subset/Heels/17672.jpg
+2213,Men,Footwear,Sandal,Sandals,Brown,Fall,2010.0,Casual,Puma Men Brown Sandal,Sandals,data/subset/Sandals/2213.jpg
+9157,Women,Apparel,Topwear,Shirts,Pink,Fall,2011.0,Casual,Jealous 21 Women Checks Pink Shirt,Shirts,data/subset/Shirts/9157.jpg
+11963,Men,Footwear,Sandal,Sandals,Brown,Fall,2012.0,Casual,Ganuchi Men Brown Sandals,Sandals,data/subset/Sandals/11963.jpg
+39478,Women,Apparel,Topwear,Kurtas,Pink,Summer,2012.0,Ethnic,Diva Women Pink Kurta,Kurtas,data/subset/Kurtas/39478.jpg
+14560,Men,Footwear,Shoes,Casual Shoes,Black,Spring,2012.0,Casual,Vans Men Era Black Casual Shoes,Casual Shoes,data/subset/Casual Shoes/14560.jpg
+59323,Men,Footwear,Sandal,Sandals,Black,Summer,2012.0,Casual,Gliders Men Black Sandals,Sandals,data/subset/Sandals/59323.jpg
+44522,Men,Footwear,Sandal,Sandals,White,Fall,2012.0,Casual,Coolers Men White Sandals,Sandals,data/subset/Sandals/44522.jpg
+15857,Unisex,Footwear,Sandal,Sandals,Blue,Spring,2013.0,Casual,Warner Bros Kids Unisex LT Blug Clog Blue Sandals,Sandals,data/subset/Sandals/15857.jpg
+25420,Men,Footwear,Shoes,Casual Shoes,Black,Spring,2013.0,Casual,Nike Men Lite Force Black & White Shoes,Casual Shoes,data/subset/Casual Shoes/25420.jpg
+11755,Women,Apparel,Topwear,Tops,White,Summer,2011.0,Casual,Lee Women Solid White Shirts,Tops,data/subset/Tops/11755.jpg
+14377,Women,Footwear,Shoes,Heels,Copper,Winter,2015.0,Casual,Catwalk Women Casual Copper Flats,Heels,data/subset/Heels/14377.jpg
+43571,Women,Accessories,Bags,Handbags,Purple,Summer,2012.0,Casual,Puma Purple Kenobi II Tote Bag,Handbags,data/subset/Handbags/43571.jpg
+58155,Women,Accessories,Bags,Handbags,Pink,Summer,2015.0,Casual,Be For Bag Women Multi Coloured Bag,Handbags,data/subset/Handbags/58155.jpg
+27851,Women,Apparel,Topwear,Tops,Orange,Summer,2012.0,Casual,Scullers For Her Orange Top,Tops,data/subset/Tops/27851.jpg
+58661,Women,Apparel,Topwear,Kurtas,Green,Summer,2012.0,Ethnic,ALayna Women Green Kurta,Kurtas,data/subset/Kurtas/58661.jpg
+41739,Women,Footwear,Shoes,Heels,Silver,Winter,2012.0,Casual,Catwalk Women Silver Heels,Heels,data/subset/Heels/41739.jpg
+45355,Women,Footwear,Shoes,Heels,Beige,Summer,2016.0,Casual,Cobblerz Women Beige Sandals,Heels,data/subset/Heels/45355.jpg
+48503,Women,Apparel,Topwear,Tops,Cream,Summer,2012.0,Casual,French Connection Women Cream Top,Tops,data/subset/Tops/48503.jpg
+20146,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Urban Navy Blue Shirt,Shirts,data/subset/Shirts/20146.jpg
+7307,Women,Apparel,Topwear,Tops,White,Summer,2011.0,Casual,UCB Women Sleeveless White Top,Tops,data/subset/Tops/7307.jpg
+22031,Women,Apparel,Topwear,Kurtas,Blue,Fall,2011.0,Ethnic,Vishudh Women Printed Blue Kurta,Kurtas,data/subset/Kurtas/22031.jpg
+13405,Men,Apparel,Topwear,Shirts,Green,Summer,2011.0,Casual,United Colors of Benetton Men Check Green Shirts,Shirts,data/subset/Shirts/13405.jpg
+53843,Women,Apparel,Topwear,Kurtas,White,Summer,2012.0,Ethnic,Vishudh Women Printed White Kurta,Kurtas,data/subset/Kurtas/53843.jpg
+12241,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Formal,Genesis Men Stripes White Shirts,Shirts,data/subset/Shirts/12241.jpg
+44426,Unisex,Footwear,Sandal,Sandals,Blue,Summer,2012.0,Casual,Footfun Kids Unisex Blue Sandals,Sandals,data/subset/Sandals/44426.jpg
+2615,Men,Apparel,Topwear,Tshirts,Blue,Fall,2010.0,Sports,Nike Black Bleed Blue T-shirt,Tshirts,data/subset/Tshirts/2615.jpg
+18543,Women,Footwear,Shoes,Heels,Black,Winter,2015.0,Casual,Catwalk Women  Black Heels,Heels,data/subset/Heels/18543.jpg
+59187,Women,Footwear,Shoes,Heels,Maroon,Summer,2012.0,Casual,Senorita Women Maroon Heels,Heels,data/subset/Heels/59187.jpg
+10141,Women,Accessories,Watches,Watches,Gold,Winter,2016.0,Casual,Esprit Women Houston White Gold Links Gold Watches,Watches,data/subset/Watches/10141.jpg
+11800,Women,Apparel,Topwear,Kurtas,Black,Fall,2011.0,Ethnic,Vishudh Women Black Pigment Print Kurta,Kurtas,data/subset/Kurtas/11800.jpg
+31273,Men,Apparel,Topwear,Tshirts,Green,Summer,2012.0,Casual,Puma Men Calonge Graphic Green T-shirt,Tshirts,data/subset/Tshirts/31273.jpg
+25162,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Lino Perros Women Leatherette Black Handbag,Handbags,data/subset/Handbags/25162.jpg
+25666,Men,Accessories,Watches,Watches,Blue,Summer,2017.0,Casual,Fastrack Men Blue Dial Watch NA3001SM02,Watches,data/subset/Watches/25666.jpg
+20487,Women,Accessories,Bags,Handbags,Black,Winter,2015.0,Casual,Baggit Women Golmaal Taj Black Handbag,Handbags,data/subset/Handbags/20487.jpg
+36995,Women,Accessories,Bags,Handbags,Red,Summer,2012.0,Casual,Lino Perros Women Red Handbag,Handbags,data/subset/Handbags/36995.jpg
+44494,Men,Footwear,Shoes,Casual Shoes,Blue,Summer,2012.0,Casual,Gliders Men Blue Shoes,Casual Shoes,data/subset/Casual Shoes/44494.jpg
+12629,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Probase Men Printed Red Tshirts,Tshirts,data/subset/Tshirts/12629.jpg
+59262,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Titan Women Silver Watch,Watches,data/subset/Watches/59262.jpg
+15851,Unisex,Footwear,Sandal,Sandals,Red,Fall,2011.0,Casual,Warner Bros Kids Unisex TJ Playlogs Red Sandals,Sandals,data/subset/Sandals/15851.jpg
+59311,Men,Footwear,Sandal,Sandals,Black,Fall,2012.0,Casual,Gliders Men Black Sandals,Sandals,data/subset/Sandals/59311.jpg
+19941,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Nike Men Court Majestic Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/19941.jpg
+32596,Women,Apparel,Topwear,Tops,Peach,Summer,2012.0,Casual,ONLY Women Peach Long Tank Top,Tops,data/subset/Tops/32596.jpg
+59374,Women,Apparel,Topwear,Kurtas,Green,Summer,2012.0,Ethnic,Vishudh Women Green Printed Kurta,Kurtas,data/subset/Kurtas/59374.jpg
+38945,Girls,Apparel,Topwear,Tops,White,Summer,2012.0,Casual,Gini and Jony Girls Printed White Top,Tops,data/subset/Tops/38945.jpg
+12361,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Formal,Reid & Taylor Men Solid Blue Shirts,Shirts,data/subset/Shirts/12361.jpg
+59796,Women,Apparel,Topwear,Tops,Blue,Fall,2012.0,Casual,United Colors of Benetton Women Multi Coloured Top,Tops,data/subset/Tops/59796.jpg
+29738,Women,Accessories,Bags,Handbags,Teal,Summer,2012.0,Casual,Kiara Women Teal Handbag,Handbags,data/subset/Handbags/29738.jpg
+26059,Men,Apparel,Topwear,Shirts,Black,Summer,2012.0,Formal,John Miller Men Gingham Black Shirt,Shirts,data/subset/Shirts/26059.jpg
+7837,Men,Apparel,Topwear,Tshirts,Purple,Fall,2011.0,Casual,Proline Men Purple T-shirt,Tshirts,data/subset/Tshirts/7837.jpg
+46607,Women,Footwear,Shoes,Heels,Silver,Winter,2012.0,Casual,Catwalk Women Silver Heels,Heels,data/subset/Heels/46607.jpg
+58690,Women,Apparel,Topwear,Kurtas,Green,Summer,2012.0,Ethnic,ALayna Women Green Kurta,Kurtas,data/subset/Kurtas/58690.jpg
+40423,Women,Apparel,Topwear,Tops,White,Summer,2012.0,Casual,Tonga Women White Top,Tops,data/subset/Tops/40423.jpg
+26359,Women,Apparel,Topwear,Tops,Black,Summer,2012.0,Casual,Arrow Women Black Top,Tops,data/subset/Tops/26359.jpg
+50708,Women,Apparel,Topwear,Tops,Yellow,Summer,2012.0,Casual,Latin Quarters Women Yellow Striped Top,Tops,data/subset/Tops/50708.jpg
+2388,Men,Footwear,Shoes,Casual Shoes,Brown,Winter,2018.0,Casual,Red Tape Men Brown Casual Shoe,Casual Shoes,data/subset/Casual Shoes/2388.jpg
+39958,Men,Footwear,Sandal,Sandals,Brown,Spring,2013.0,Casual,GAS Men Brown Deeply Sandals,Sandals,data/subset/Sandals/39958.jpg
+15296,Unisex,Accessories,Bags,Handbags,Black,Fall,2011.0,Casual,ADIDAS Originals Unisex Spo Shoulderbag Black,Handbags,data/subset/Handbags/15296.jpg
+47118,Boys,Footwear,Sandal,Sandals,Red,Spring,2013.0,Casual,Marvel Boys Red Spiderman Clogs,Sandals,data/subset/Sandals/47118.jpg
+54536,Men,Footwear,Shoes,Sports Shoes,Grey,Fall,2012.0,Sports,F Sports Men Grey Deen Sports Shoes,Sports Shoes,data/subset/Sports Shoes/54536.jpg
+21521,Women,Accessories,Bags,Handbags,Pink,Winter,2015.0,Casual,Kiara Women Rose Pink Handbag,Handbags,data/subset/Handbags/21521.jpg
+29743,Women,Accessories,Bags,Handbags,Green,Summer,2012.0,Casual,Kiara Women Light Green Handbag,Handbags,data/subset/Handbags/29743.jpg
+2877,Women,Footwear,Shoes,Heels,Brown,Winter,2015.0,Casual,Catwalk Women Rose Mary Flats,Heels,data/subset/Heels/2877.jpg
+25296,Women,Accessories,Bags,Handbags,Olive,Summer,2012.0,Casual,Lino Perros Women Sporty Olive Handbag,Handbags,data/subset/Handbags/25296.jpg
+4972,Men,Apparel,Topwear,Shirts,Green,Summer,2011.0,Casual,Gini and Jony Boy's Kangaroo Green White Kidswear,Shirts,data/subset/Shirts/4972.jpg
+22330,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,John Players Men Stripes White T-Shirt,Tshirts,data/subset/Tshirts/22330.jpg
+37984,Men,Apparel,Topwear,Tshirts,Black,Summer,2012.0,Casual,Classic Polo Men Black & White T-Shirt,Tshirts,data/subset/Tshirts/37984.jpg
+29754,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Fossil Women White Dial Chronograph Watch ES2965,Watches,data/subset/Watches/29754.jpg
+37856,Women,Accessories,Bags,Handbags,Black,Summer,2012.0,Casual,Hidekraft Women Black Handbag,Handbags,data/subset/Handbags/37856.jpg
+26343,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,DKNY Women White Dial Watch NY8305,Watches,data/subset/Watches/26343.jpg
+27281,Women,Apparel,Topwear,Kurtas,Brown,Fall,2011.0,Ethnic,Mother Earth Women Light Brown Kurta,Kurtas,data/subset/Kurtas/27281.jpg
+48073,Men,Apparel,Topwear,Tshirts,Grey,Summer,2012.0,Casual,French Connection Men Grey T-shirt,Tshirts,data/subset/Tshirts/48073.jpg
+36038,Unisex,Accessories,Bags,Handbags,Blue,Summer,2012.0,Casual,OTLS Unisex Blue Bag,Handbags,data/subset/Handbags/36038.jpg
+30237,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2012.0,Casual,Numero Uno Men Black Shoes,Casual Shoes,data/subset/Casual Shoes/30237.jpg
+47231,Men,Footwear,Sandal,Sandals,Black,Summer,2012.0,Casual,Franco Leone Men Black Slippers,Sandals,data/subset/Sandals/47231.jpg
+26905,Women,Apparel,Topwear,Tops,Off White,Summer,2012.0,Casual,Jealous 21 Women Off White Top,Tops,data/subset/Tops/26905.jpg
+5130,Women,Apparel,Topwear,Tops,Black,Summer,2011.0,Casual,Wrangler Women Woodstock Black White Top,Tops,data/subset/Tops/5130.jpg
+22711,Men,Footwear,Shoes,Sports Shoes,Grey,Fall,2011.0,Sports,Nike Men Lunarfly+2 Grey Sports Shoes,Sports Shoes,data/subset/Sports Shoes/22711.jpg
+1827,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Nike Men's Downshifter White/Blue Shoe,Sports Shoes,data/subset/Sports Shoes/1827.jpg
+39183,Women,Apparel,Topwear,Kurtas,Multi,Summer,2012.0,Ethnic,Aneri Women Multi Coloured Kurta,Kurtas,data/subset/Kurtas/39183.jpg
+27871,Women,Apparel,Topwear,Shirts,White,Summer,2012.0,Casual,Scullers For Her Striped White Shirt,Shirts,data/subset/Shirts/27871.jpg
+32240,Women,Apparel,Topwear,Kurtas,Blue,Summer,2012.0,Ethnic,Fabindia Women Blue Kurta,Kurtas,data/subset/Kurtas/32240.jpg
+13988,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Fall,2011.0,Casual,Puma Men Future Cat Remix Lo Navy Blue Casual Shoes,Casual Shoes,data/subset/Casual Shoes/13988.jpg
+26551,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2012.0,Casual,ID Men Black Shoes,Casual Shoes,data/subset/Casual Shoes/26551.jpg
+16759,Women,Accessories,Bags,Handbags,White,Winter,2015.0,Casual,Spice Art Women Copper Glass White Handbags,Handbags,data/subset/Handbags/16759.jpg
+12097,Women,Apparel,Topwear,Kurtas,White,Fall,2011.0,Ethnic,W Women Printed White Kurtas,Kurtas,data/subset/Kurtas/12097.jpg
+15727,Women,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Nike Women Downshifter 4 MSL White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/15727.jpg
+52164,Women,Apparel,Topwear,Tops,Purple,Summer,2012.0,Casual,Femella Women Purple Top,Tops,data/subset/Tops/52164.jpg
+23221,Women,Apparel,Topwear,Kurtas,Maroon,Fall,2011.0,Ethnic,Aneri Women Maroon Embroidery Kurta,Kurtas,data/subset/Kurtas/23221.jpg
+53835,Women,Apparel,Topwear,Kurtas,Blue,Summer,2012.0,Ethnic,Vishudh Women Blue Printed Kurta,Kurtas,data/subset/Kurtas/53835.jpg
+13047,Women,Footwear,Shoes,Heels,White,Winter,2012.0,Casual,Inc 5 Women Casual White Wedges,Heels,data/subset/Heels/13047.jpg
+37723,Men,Apparel,Topwear,Shirts,Blue,Summer,2012.0,Casual,John Players Men Stripes Blue Shirt,Shirts,data/subset/Shirts/37723.jpg
+9256,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Formal,Mark Taylor Men Blue Striped Shirt,Shirts,data/subset/Shirts/9256.jpg
+35664,Men,Footwear,Sandal,Sandals,Black,Summer,2013.0,Casual,U.S. Polo Assn. Men Black Sandals,Sandals,data/subset/Sandals/35664.jpg
+5537,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2011.0,Sports,Nike Men's Free Black White Shoe,Sports Shoes,data/subset/Sports Shoes/5537.jpg
+16541,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,Basics Men Black Slim Fit Checked Shirt,Shirts,data/subset/Shirts/16541.jpg
+28955,Women,Apparel,Topwear,Kurtas,White,Summer,2012.0,Ethnic,BIBA Women White Kurta,Kurtas,data/subset/Kurtas/28955.jpg
+46980,Women,Accessories,Bags,Handbags,Black,Summer,2012.0,Casual,Bulchee Women Black Handbag,Handbags,data/subset/Handbags/46980.jpg
+39662,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,Lotto Men White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/39662.jpg
+46215,Men,Footwear,Shoes,Sports Shoes,Orange,Summer,2012.0,Sports,ADIDAS Men Orange Sports Shoes,Sports Shoes,data/subset/Sports Shoes/46215.jpg
+56962,Women,Footwear,Shoes,Heels,Brown,Winter,2012.0,Casual,HM Women Brown Flats,Heels,data/subset/Heels/56962.jpg
+49597,Women,Footwear,Shoes,Heels,Brown,Winter,2015.0,Casual,Catwalk Women Brown Flats,Heels,data/subset/Heels/49597.jpg
+43268,Women,Apparel,Topwear,Kurtas,Pink,Summer,2012.0,Ethnic,Aneri Women Pink Kurta,Kurtas,data/subset/Kurtas/43268.jpg
+7583,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Sports,Nike Men's As Cruiser T-Shirts,Tshirts,data/subset/Tshirts/7583.jpg
+12101,Women,Apparel,Topwear,Kurtas,Pink,Fall,2011.0,Ethnic,W Women Printed Pink Kurtas,Kurtas,data/subset/Kurtas/12101.jpg
+54742,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2012.0,Casual,Vans Men Brown Shoes,Casual Shoes,data/subset/Casual Shoes/54742.jpg
+47643,Men,Footwear,Shoes,Casual Shoes,Brown,Winter,2014.0,Casual,Carlton London Men Light Brown Loafers,Casual Shoes,data/subset/Casual Shoes/47643.jpg
+3137,Women,Footwear,Shoes,Heels,Brown,Winter,2015.0,Ethnic,Catwalk Women Ethnic Leather Flat Brown Flats,Heels,data/subset/Heels/3137.jpg
+24100,Men,Footwear,Sandal,Sandals,Brown,Summer,2012.0,Casual,Red Tape Men Brown Casual Sandals,Sandals,data/subset/Sandals/24100.jpg
+29756,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Fossil Women Silver-Toned Dial Chronograph Watch ES2883,Watches,data/subset/Watches/29756.jpg
+2220,Men,Footwear,Sandal,Sandals,Black,Fall,2010.0,Sports,Puma Men Carbon Black Sandal,Sandals,data/subset/Sandals/2220.jpg
+25261,Women,Accessories,Bags,Handbags,Beige,Summer,2012.0,Casual,Lino Perros Women Canvas Beige Handbag,Handbags,data/subset/Handbags/25261.jpg
+24068,Men,Apparel,Topwear,Shirts,Grey,Fall,2011.0,Casual,Locomotive Men Check Grey Shirt,Shirts,data/subset/Shirts/24068.jpg
+40285,Unisex,Footwear,Sandal,Sandals,Green,Spring,2013.0,Casual,Warner Bros kids Unisex Green Sandals,Sandals,data/subset/Sandals/40285.jpg
+22264,Women,Footwear,Shoes,Heels,Gold,Winter,2012.0,Casual,Inc. 5 Women Casual Golden Flats,Heels,data/subset/Heels/22264.jpg
+35821,Women,Footwear,Shoes,Heels,Black,Summer,2012.0,Casual,Enroute Women Black Heels,Heels,data/subset/Heels/35821.jpg
+3566,Men,Footwear,Shoes,Sports Shoes,White,Summer,2011.0,Sports,ADIDAS Men's White Silver Running Shoe,Sports Shoes,data/subset/Sports Shoes/3566.jpg
+9033,Men,Footwear,Shoes,Casual Shoes,Red,Winter,2012.0,Casual,Buckaroo Men Diana Red Shoes,Casual Shoes,data/subset/Casual Shoes/9033.jpg
+27892,Women,Apparel,Topwear,Shirts,Black,Summer,2012.0,Formal,Scullers For Her Black Striped Shirt,Shirts,data/subset/Shirts/27892.jpg
+54109,Women,Footwear,Shoes,Heels,Beige,Winter,2012.0,Casual,Rocia Women Beige Flats,Heels,data/subset/Heels/54109.jpg
+3016,Men,Apparel,Topwear,Tshirts,Beige,Summer,2011.0,Casual,Lee Men's Bottle Grey T-shirt,Tshirts,data/subset/Tshirts/3016.jpg
+8448,Women,Apparel,Topwear,Tops,Grey,Fall,2011.0,Casual,Jealous 21 Women about my style Purple Top,Tops,data/subset/Tops/8448.jpg
+15889,Girls,Footwear,Sandal,Sandals,Pink,Winter,2012.0,Casual,Warner Bros Kids Girls TW Big Facelog Pink Sandals,Sandals,data/subset/Sandals/15889.jpg
+5871,Unisex,Footwear,Shoes,Casual Shoes,Green,Summer,2011.0,Casual,Converse Unisex Heck Ox Green White Shoe,Casual Shoes,data/subset/Casual Shoes/5871.jpg
+15853,Girls,Footwear,Sandal,Sandals,Green,Fall,2012.0,Casual,Warner Bros Kids Girls TW Love flops Green Slippers,Sandals,data/subset/Sandals/15853.jpg
+4715,Unisex,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,ADIDAS Unisex New York Griffiti Digital Black Watch,Watches,data/subset/Watches/4715.jpg
+43277,Women,Accessories,Bags,Handbags,Lavender,Winter,2012.0,Casual,Murcia Women Lavender Handbag,Handbags,data/subset/Handbags/43277.jpg
+57521,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2012.0,Casual,Provogue Men Brown Casual Shoes,Casual Shoes,data/subset/Casual Shoes/57521.jpg
+48450,Men,Apparel,Topwear,Tshirts,Grey,Summer,2012.0,Casual,French Connection Men Grey T-shirt,Tshirts,data/subset/Tshirts/48450.jpg
+29256,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Sports,ADIDAS Men Duramo 4 M Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/29256.jpg
+2672,Women,Accessories,Bags,Handbags,Red,Winter,2015.0,Ethnic,Murcia Women Ethnic Hand Bag,Handbags,data/subset/Handbags/2672.jpg
+11381,Women,Apparel,Topwear,Tops,Multi,Fall,2011.0,Casual,United Colors of Benetton Women Multi Coloured Top,Tops,data/subset/Tops/11381.jpg
+45327,Women,Footwear,Shoes,Heels,Yellow,Summer,2016.0,Casual,Cobblerz Women Yellow & Orange Sandals,Heels,data/subset/Heels/45327.jpg
+41775,Women,Apparel,Topwear,Tops,Green,Summer,2012.0,Casual,Remanika Women Lime Green Top,Tops,data/subset/Tops/41775.jpg
+3695,Men,Footwear,Shoes,Casual Shoes,White,Summer,2011.0,Casual,Lotto Men's Rio Velcro White Indigo Shoe,Casual Shoes,data/subset/Casual Shoes/3695.jpg
+3706,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,Classic Polo Men's Grey Red & Brown Stripe T-shirt,Tshirts,data/subset/Tshirts/3706.jpg
+41737,Women,Footwear,Shoes,Heels,Black,Winter,2012.0,Casual,Catwalk Women Black Heels,Heels,data/subset/Heels/41737.jpg
+12003,Men,Apparel,Topwear,Shirts,Grey,Fall,2011.0,Formal,Mark Taylor Men Grey Striped Shirt,Shirts,data/subset/Shirts/12003.jpg
+42091,Women,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Sports,ADIDAS Women Black Adi LS Move Shoes,Sports Shoes,data/subset/Sports Shoes/42091.jpg
+31698,Women,Apparel,Topwear,Kurtas,Pink,Summer,2012.0,Ethnic,Folklore Women Printed Pink Kurta,Kurtas,data/subset/Kurtas/31698.jpg
+34831,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,ADIDAS Men Bolt White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/34831.jpg
+59227,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Titan Women Black Watch,Watches,data/subset/Watches/59227.jpg
+17659,Women,Footwear,Shoes,Casual Shoes,Brown,Winter,2015.0,Casual,Catwalk Women Ballerina Brown Casual Shoe,Casual Shoes,data/subset/Casual Shoes/17659.jpg
+33662,Men,Footwear,Sandal,Sandals,Black,Summer,2012.0,Casual,Lotto Men Caesar Cross Black Sandals,Sandals,data/subset/Sandals/33662.jpg
+17497,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Classic Polo Men Stripes Grey Polo T-Shirt,Tshirts,data/subset/Tshirts/17497.jpg
+34001,Women,Apparel,Topwear,Tops,Brown,Summer,2012.0,Casual,Femella Women Brown Top,Tops,data/subset/Tops/34001.jpg
+27061,Women,Accessories,Bags,Handbags,Pink,Summer,2015.0,Casual,Yelloe Pink Laptop Pocket Handbag,Handbags,data/subset/Handbags/27061.jpg
+36447,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,Spinn Men Orbit White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/36447.jpg
+5038,Men,Footwear,Shoes,Sports Shoes,White,Summer,2011.0,Sports,Fila Men's Galliant White Shoe,Sports Shoes,data/subset/Sports Shoes/5038.jpg
+46846,Girls,Footwear,Sandal,Sandals,Purple,Winter,2012.0,Casual,Barbie Purple Girls Slippers,Sandals,data/subset/Sandals/46846.jpg
+7304,Women,Apparel,Topwear,Tops,Pink,Summer,2011.0,Casual,UCB Women's Short Sleeve Pink Top,Tops,data/subset/Tops/7304.jpg
+51638,Unisex,Accessories,Watches,Watches,Gold,Winter,2016.0,Casual,Fossil Unisex Gold-Toned Dial Chronograph Watch FS4724,Watches,data/subset/Watches/51638.jpg
+50730,Men,Footwear,Sandal,Sandals,Black,Winter,2018.0,Casual,Red Chief Men Black Sandals,Sandals,data/subset/Sandals/50730.jpg
+41703,Women,Footwear,Shoes,Heels,Teal,Winter,2012.0,Casual,Catwalk Women Teal Wedges,Heels,data/subset/Heels/41703.jpg
+58277,Women,Accessories,Bags,Handbags,Beige,Summer,2012.0,Casual,Baggit Women Beige Libra Jhuti Sling Bag,Handbags,data/subset/Handbags/58277.jpg
+15067,Men,Footwear,Sandal,Sandals,Brown,Summer,2012.0,Casual,Ganuchi Men Brown Sandal,Sandals,data/subset/Sandals/15067.jpg
+41713,Women,Footwear,Shoes,Heels,Orange,Spring,2013.0,Casual,Catwalk Women Orange Wedges,Heels,data/subset/Heels/41713.jpg
+51741,Men,Footwear,Shoes,Sports Shoes,Grey,Summer,2012.0,Sports,Force 10 Men Grey Sports Shoes,Sports Shoes,data/subset/Sports Shoes/51741.jpg
+46549,Men,Accessories,Watches,Watches,Silver,Winter,2016.0,Smart Casual,Timex Expedition Men Silver Toned Analogue & Digital Watch,Watches,data/subset/Watches/46549.jpg
+4319,Unisex,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Tantra Kid's Unisex Free Spirit Turquoise Kidswear,Tshirts,data/subset/Tshirts/4319.jpg
+40395,Women,Apparel,Topwear,Tops,White,Summer,2012.0,Casual,Tonga Women White & Grey Striped Top,Tops,data/subset/Tops/40395.jpg
+53997,Women,Accessories,Bags,Handbags,Grey,Summer,2012.0,Casual,Kiara Women Grey Handbag,Handbags,data/subset/Handbags/53997.jpg
+56678,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Maxima Men Black Dial Watch,Watches,data/subset/Watches/56678.jpg
+8207,Men,Apparel,Topwear,Tshirts,Red,Summer,2011.0,Casual,Locomotive Men Solid Langworth Red T-Shirts,Tshirts,data/subset/Tshirts/8207.jpg
+43341,Men,Footwear,Shoes,Sports Shoes,Grey,Summer,2008.0,Sports,Reebok Men Realflex Optimal Grey Sports Shoe,Sports Shoes,data/subset/Sports Shoes/43341.jpg
+24084,Women,Footwear,Shoes,Heels,Bronze,Winter,2015.0,Casual,Catwalk Women Bronze Flats,Heels,data/subset/Heels/24084.jpg
+33123,Women,Footwear,Shoes,Heels,Silver,Winter,2015.0,Casual,Catwalk Women Silver Heels,Heels,data/subset/Heels/33123.jpg
+44746,Men,Footwear,Shoes,Casual Shoes,Olive,Summer,2012.0,Casual,Globalite Men Olive Sparta Shoes,Casual Shoes,data/subset/Casual Shoes/44746.jpg
+29291,Men,Apparel,Topwear,Shirts,Green,Summer,2012.0,Casual,Wrangler Men Striped Green Shirt,Shirts,data/subset/Shirts/29291.jpg
+11017,Women,Apparel,Topwear,Tops,Blue,Fall,2011.0,Casual,Wrangler Women Floral Print Blue Top,Tops,data/subset/Tops/11017.jpg
+22032,Women,Apparel,Topwear,Kurtas,Brown,Fall,2011.0,Ethnic,Vishudh Women Flower Print Brown Kurta,Kurtas,data/subset/Kurtas/22032.jpg
+5373,Women,Footwear,Shoes,Sports Shoes,Pink,Summer,2011.0,Sports,Quechua Women Forclaz 50 Jr 10 Pink Shoes,Sports Shoes,data/subset/Sports Shoes/5373.jpg
+3792,Men,Apparel,Topwear,Tshirts,Navy Blue,Summer,2011.0,Casual,Basics Men Navy & White Striped Polo T-shirt,Tshirts,data/subset/Tshirts/3792.jpg
+54578,Women,Apparel,Topwear,Kurtas,Black,Summer,2012.0,Ethnic,Sushilas Women Printed Black Kurta,Kurtas,data/subset/Kurtas/54578.jpg
+17460,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,CASIO G-Shock Men Black Analogue-Digital Watch GA-110GB-1ADR G339,Watches,data/subset/Watches/17460.jpg
+54586,Women,Apparel,Topwear,Kurtas,Green,Summer,2012.0,Ethnic,Sushilas Women Printed Green Kurta,Kurtas,data/subset/Kurtas/54586.jpg
+45913,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Maxima Men White Dial Watch,Watches,data/subset/Watches/45913.jpg
+2847,Men,Apparel,Topwear,Tshirts,Purple,Summer,2011.0,Casual,Mr.Men Men's Is There More Love Purple T-shirt,Tshirts,data/subset/Tshirts/2847.jpg
+14283,Women,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Timberland Women Chauncy ox  Casual Shoe,Casual Shoes,data/subset/Casual Shoes/14283.jpg
+56958,Women,Footwear,Shoes,Heels,Blue,Winter,2012.0,Casual,HM Women Blue Flats,Heels,data/subset/Heels/56958.jpg
+17043,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2013.0,Casual,Gas Men Skate 003 Casual Shoe,Casual Shoes,data/subset/Casual Shoes/17043.jpg
+19612,Women,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,United Colors of Benetton Women Solid Blue Tshirt,Tshirts,data/subset/Tshirts/19612.jpg
+40403,Women,Apparel,Topwear,Tops,Beige,Summer,2012.0,Casual,Tonga Women Beige & Brown Top,Tops,data/subset/Tops/40403.jpg
+6066,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,UCB Men's Polo Neck Striper Heavy Wash Black Pink T-shirt,Tshirts,data/subset/Tshirts/6066.jpg
+49551,Women,Accessories,Bags,Handbags,Beige,Summer,2012.0,Casual,Rocia Women Beige Handbag,Handbags,data/subset/Handbags/49551.jpg
+36590,Men,Apparel,Topwear,Shirts,Red,Summer,2012.0,Casual,Provogue Men Eternity Red Shirt,Shirts,data/subset/Shirts/36590.jpg
+6804,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2011.0,Casual,Timberland Men's Driver Venetian Brown Shoe,Casual Shoes,data/subset/Casual Shoes/6804.jpg
+13323,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Gini and Jony Kids Boys Stripes Green Tshirts,Shirts,data/subset/Shirts/13323.jpg
+57284,Men,Apparel,Topwear,Shirts,Purple,Summer,2012.0,Casual,French Connection Men Purple & Brown Shirt,Shirts,data/subset/Shirts/57284.jpg
+58809,Men,Apparel,Topwear,Shirts,White,Fall,2012.0,Casual,Highlander Men White Striped Shirt,Shirts,data/subset/Shirts/58809.jpg
+39740,Men,Footwear,Sandal,Sandals,Brown,Summer,2012.0,Casual,Arrow Men Brown Sandals,Sandals,data/subset/Sandals/39740.jpg
+10701,Women,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Esprit Women Silver Houston Steel Watches,Watches,data/subset/Watches/10701.jpg
+45800,Women,Footwear,Shoes,Heels,Copper,Summer,2012.0,Casual,Senorita Women Copper Flats,Heels,data/subset/Heels/45800.jpg
+9611,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Formal,Indigo Nation Men Price catch Green White Shirts,Shirts,data/subset/Shirts/9611.jpg
+57230,Women,Accessories,Bags,Handbags,Purple,Summer,2012.0,Casual,Murcia Women Purple Handbag,Handbags,data/subset/Handbags/57230.jpg
+49327,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,DKNY Women White Dial Watch NY4634,Watches,data/subset/Watches/49327.jpg
+35916,Women,Accessories,Bags,Handbags,Purple,Fall,2012.0,Casual,Peperone Women Purple Handbag,Handbags,data/subset/Handbags/35916.jpg
+10499,Women,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Flying Machine Women Aspen Yellow Tshirts,Tshirts,data/subset/Tshirts/10499.jpg
+10795,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Warnick Square Block Navy Blue Shirts,Shirts,data/subset/Shirts/10795.jpg
+22001,Women,Accessories,Bags,Handbags,Green,Winter,2015.0,Casual,Murcia Women Casual Green Handbag,Handbags,data/subset/Handbags/22001.jpg
+11439,Women,Apparel,Topwear,Tops,Navy Blue,Fall,2011.0,Casual,United Colors of Benetton Women Solid Navy Blue Top,Tops,data/subset/Tops/11439.jpg
+1784,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Lotto Men's Melbourne White-Red Shoe,Sports Shoes,data/subset/Sports Shoes/1784.jpg
+43629,Women,Apparel,Topwear,Shirts,Black,Summer,2012.0,Casual,Vero Moda Women Black Shirt,Shirts,data/subset/Shirts/43629.jpg
+8257,Women,Accessories,Bags,Handbags,Red,Winter,2016.0,Casual,Fastrack Women Red Handbag,Handbags,data/subset/Handbags/8257.jpg
+43204,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fastrack Men Black Dial Watch,Watches,data/subset/Watches/43204.jpg
+53774,Men,Apparel,Topwear,Tshirts,White,Summer,2012.0,Casual,Puma Men White T-shirt,Tshirts,data/subset/Tshirts/53774.jpg
+4315,Unisex,Apparel,Topwear,Tshirts,Brown,Summer,2011.0,Casual,Tantra Kid's Unisex Harappa Choco Brown Kidswear,Tshirts,data/subset/Tshirts/4315.jpg
+29519,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Playboy Women Black Dial Watch,Watches,data/subset/Watches/29519.jpg
+39452,Women,Apparel,Topwear,Kurtas,Blue,Summer,2012.0,Ethnic,Diva Women Printed Blue Kurta,Kurtas,data/subset/Kurtas/39452.jpg
+45872,Men,Accessories,Watches,Watches,Grey,Winter,2016.0,Casual,Maxima Men Dark Grey Dial Watch,Watches,data/subset/Watches/45872.jpg
+22942,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Fastrack Women White Casual Watch,Watches,data/subset/Watches/22942.jpg
+32211,Women,Apparel,Topwear,Kurtas,Pink,Summer,2012.0,Ethnic,Fabindia Women Pink Kurta,Kurtas,data/subset/Kurtas/32211.jpg
+26914,Women,Apparel,Topwear,Tops,Pink,Summer,2012.0,Casual,Jealous 21 Women Printed Pink Top,Tops,data/subset/Tops/26914.jpg
+19058,Women,Apparel,Topwear,Kurtas,Rust,Fall,2011.0,Ethnic,Aurelia Women Solid Rust Kurta,Kurtas,data/subset/Kurtas/19058.jpg
+28962,Women,Apparel,Topwear,Kurtas,White,Summer,2012.0,Ethnic,BIBA Women Printed White Kurta,Kurtas,data/subset/Kurtas/28962.jpg
+54556,Women,Apparel,Topwear,Kurtas,White,Summer,2012.0,Ethnic,Global Desi Women Purple & White Kurta,Kurtas,data/subset/Kurtas/54556.jpg
+49381,Men,Footwear,Shoes,Casual Shoes,Navy Blue,Summer,2012.0,Casual,Vans Men Navy Blue Versa Casual Shoes,Casual Shoes,data/subset/Casual Shoes/49381.jpg
+39455,Women,Apparel,Topwear,Kurtas,Multi,Summer,2012.0,Ethnic,Diva Women Multi Coloured Kurta,Kurtas,data/subset/Kurtas/39455.jpg
+14798,Women,Accessories,Bags,Handbags,Brown,Summer,2011.0,Casual,United Colors of Benetton Women Solid Coffee Brown Handbags,Handbags,data/subset/Handbags/14798.jpg
+30144,Women,Apparel,Topwear,Tshirts,Black,Summer,2012.0,Casual,Flying Machine Women Printed Black T-shirt,Tshirts,data/subset/Tshirts/30144.jpg
+46562,Men,Accessories,Watches,Watches,Charcoal,Winter,2016.0,Casual,Timex Men Charcoal Grey Dial Watch T49796,Watches,data/subset/Watches/46562.jpg
+48009,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Helix Women Silver Dial Watch,Watches,data/subset/Watches/48009.jpg
+12971,Women,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,ADIDAS Women Core 50 Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/12971.jpg
+45577,Men,Footwear,Sandal,Sandals,Black,Summer,2010.0,Casual,Arrow Men Black Sandals,Sandals,data/subset/Sandals/45577.jpg
+33246,Men,Apparel,Topwear,Shirts,Lavender,Spring,2013.0,Formal,Arrow Men Lavender Unstainable Slim Fit Shirt,Shirts,data/subset/Shirts/33246.jpg
+27532,Men,Apparel,Topwear,Shirts,Blue,Summer,2012.0,Casual,Scullers Men Check Blue Shirt,Shirts,data/subset/Shirts/27532.jpg
+10698,Women,Accessories,Watches,Watches,Red,Winter,2016.0,Casual,Esprit Women Houston Red Ice Red Watch,Watches,data/subset/Watches/10698.jpg
+23505,Men,Footwear,Shoes,Sports Shoes,White,Summer,2011.0,Sports,FILA Men Aspire White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/23505.jpg
+33153,Girls,Apparel,Topwear,Tops,White,Summer,2012.0,Casual,Gini and Jony Girls Printed White Top,Tops,data/subset/Tops/33153.jpg
+1978,Women,Apparel,Topwear,Tops,Yellow,Fall,2010.0,Casual,Puma Women Yellow Sleeveless Top,Tops,data/subset/Tops/1978.jpg
+45356,Women,Footwear,Shoes,Heels,Black,Summer,2016.0,Casual,Cobblerz Women Black Sandals,Heels,data/subset/Heels/45356.jpg
+43335,Men,Footwear,Shoes,Sports Shoes,Navy Blue,Summer,2012.0,Sports,Reebok Men Navy Blue Turbo DMX Shear Sports Shoes,Sports Shoes,data/subset/Sports Shoes/43335.jpg
+53431,Women,Apparel,Topwear,Kurtas,Black,Fall,2012.0,Ethnic,Alma Women Black Printed Kurta,Kurtas,data/subset/Kurtas/53431.jpg
+22573,Men,Apparel,Topwear,Shirts,Red,Summer,2011.0,Casual,Highlander Men Check Red Shirt,Shirts,data/subset/Shirts/22573.jpg
+4974,Men,Apparel,Topwear,Shirts,Yellow,Summer,2011.0,Casual,Gini and Jony Boy's Kangaroo Yellow Infant Kidswear,Shirts,data/subset/Shirts/4974.jpg
+37746,Men,Apparel,Topwear,Shirts,Blue,Summer,2012.0,Casual,John Players Men Check Blue Shirt,Shirts,data/subset/Shirts/37746.jpg
+44739,Men,Footwear,Shoes,Casual Shoes,Grey,Summer,2012.0,Casual,Globalite Men Grey Starcross Shoes,Casual Shoes,data/subset/Casual Shoes/44739.jpg
+42529,Women,Apparel,Topwear,Kurtas,Multi,Summer,2012.0,Ethnic,Mother Earth Women Multi Coloured Kurta,Kurtas,data/subset/Kurtas/42529.jpg
+51660,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fossil Men Black Dial Watch AM4384,Watches,data/subset/Watches/51660.jpg
+2062,Men,Apparel,Topwear,Tshirts,Grey,Winter,2010.0,Casual,Lee Mens  T-shirt,Tshirts,data/subset/Tshirts/2062.jpg
+19604,Women,Apparel,Topwear,Tops,White,Summer,2011.0,Casual,United Colors of Benetton Women Solid White Top,Tops,data/subset/Tops/19604.jpg
+7447,Men,Apparel,Topwear,Tshirts,Orange,Summer,2011.0,Casual,Proline Men Orange Polo T-shirt,Tshirts,data/subset/Tshirts/7447.jpg
+23230,Women,Apparel,Topwear,Kurtas,Blue,Fall,2011.0,Ethnic,Aneri Women Blue Checks Kurta,Kurtas,data/subset/Kurtas/23230.jpg
+18498,Men,Footwear,Sandal,Sandals,Black,Fall,2011.0,Casual,Puma Men Gypse-II Black Sandals,Sandals,data/subset/Sandals/18498.jpg
+36952,Women,Footwear,Shoes,Casual Shoes,White,Summer,2012.0,Casual,Force 10 Women White Shoes,Casual Shoes,data/subset/Casual Shoes/36952.jpg
+20700,Men,Footwear,Shoes,Casual Shoes,Brown,Winter,2011.0,Casual,Buckaroo Men  Fiesta Brown Casual Shoes,Casual Shoes,data/subset/Casual Shoes/20700.jpg
+38641,Men,Apparel,Topwear,Tshirts,Red,Summer,2012.0,Casual,Nike Men Red Bangalore Polo T-shirt,Tshirts,data/subset/Tshirts/38641.jpg
+35523,Girls,Footwear,Sandal,Sandals,Purple,Summer,2012.0,Casual,Enroute Teens Purple Sandals,Sandals,data/subset/Sandals/35523.jpg
+53864,Women,Apparel,Topwear,Kurtas,Brown,Summer,2012.0,Ethnic,Vishudh Women Brown Printed Kurta,Kurtas,data/subset/Kurtas/53864.jpg
+6389,Men,Footwear,Shoes,Sports Shoes,White,Summer,2011.0,Sports,Puma Men's Urban Cat Cetto White Shoe,Sports Shoes,data/subset/Sports Shoes/6389.jpg
+4203,Boys,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Disney Kids Boy's Blue Regatta Annual Competition Kidswear,Tshirts,data/subset/Tshirts/4203.jpg
+45003,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Maxima Men Scuba Digital Watch,Watches,data/subset/Watches/45003.jpg
+22491,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,ADIDAS Men Response Cushion 20 Sport Shoes,Sports Shoes,data/subset/Sports Shoes/22491.jpg
+11942,Men,Footwear,Sandal,Sandals,Black,Summer,2011.0,Casual,Ganuchi Men Casual Black Sandals,Sandals,data/subset/Sandals/11942.jpg
+3788,Men,Apparel,Topwear,Tshirts,White,Summer,2011.0,Casual,Basics Men White & Blue Striped Polo T-shirt,Tshirts,data/subset/Tshirts/3788.jpg
+40559,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Titan Men White Dial Watch,Watches,data/subset/Watches/40559.jpg
+11620,Women,Apparel,Topwear,Kurtas,Green,Summer,2011.0,Ethnic,W Women Solid Lime Green Kurtas,Kurtas,data/subset/Kurtas/11620.jpg
+2540,Men,Footwear,Shoes,Casual Shoes,Blue,Fall,2010.0,Casual,Numero Uno Men's Casual Black Leatherette Shoe,Casual Shoes,data/subset/Casual Shoes/2540.jpg
+9210,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Puma Men Calibre Tricks Convert Spike White Shoes,Sports Shoes,data/subset/Sports Shoes/9210.jpg
+45783,Women,Footwear,Shoes,Heels,Maroon,Summer,2012.0,Casual,Senorita Women Maroon Sandals,Heels,data/subset/Heels/45783.jpg
+12965,Men,Footwear,Sandal,Sandals,Black,Fall,2011.0,Casual,ADIDAS Men Comanche Black Sandals,Sandals,data/subset/Sandals/12965.jpg
+43228,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,United Colors of Benetton Women Brown Swede Finish Handbag,Handbags,data/subset/Handbags/43228.jpg
+2056,Men,Apparel,Topwear,Tshirts,Grey,Winter,2010.0,Casual,Lee Men's Ten Minutes to Midnight T-shirt,Tshirts,data/subset/Tshirts/2056.jpg
+10082,Women,Footwear,Shoes,Sports Shoes,Grey,Fall,2011.0,Sports,Reebok Women Aviator Grey Sports Shoes,Sports Shoes,data/subset/Sports Shoes/10082.jpg
+11364,Women,Apparel,Topwear,Tops,Magenta,Fall,2011.0,Casual,United Colors of Benetton Women Magenta Top,Tops,data/subset/Tops/11364.jpg
+30860,Women,Apparel,Topwear,Kurtas,Maroon,Summer,2012.0,Ethnic,Fabindia Women Printed Maroon Kurta,Kurtas,data/subset/Kurtas/30860.jpg
+45859,Women,Apparel,Topwear,Kurtas,Multi,Summer,2012.0,Ethnic,Vishudh Women Multi Coloured Kurta,Kurtas,data/subset/Kurtas/45859.jpg
+44937,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2012.0,Casual,Ganuchi Men Brown Shoes,Casual Shoes,data/subset/Casual Shoes/44937.jpg
+39568,Women,Footwear,Shoes,Heels,Silver,Winter,2015.0,Casual,Catwalk Women Silver Flats,Heels,data/subset/Heels/39568.jpg
+18753,Women,Apparel,Topwear,Tops,Blue,Fall,2011.0,Casual,Arrow Woman Megan Blue Top,Tops,data/subset/Tops/18753.jpg
+6059,Men,Apparel,Topwear,Shirts,Green,Summer,2011.0,Casual,UCB Men Linen Small Checks Green Shirt,Shirts,data/subset/Shirts/6059.jpg
+29447,Men,Accessories,Watches,Watches,Bronze,Winter,2016.0,Casual,Giordano Men Bronze Dial Watch,Watches,data/subset/Watches/29447.jpg
+42858,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,French Connection Women Brown Sling Bag,Handbags,data/subset/Handbags/42858.jpg
+49901,Unisex,Accessories,Watches,Watches,Blue,Winter,2016.0,Casual,Q&Q Kids Unisex Blue Analog Watch,Watches,data/subset/Watches/49901.jpg
+15071,Men,Footwear,Sandal,Sandals,Brown,Fall,2012.0,Casual,Ganuchi Men Brown Sandals,Sandals,data/subset/Sandals/15071.jpg
+11951,Men,Footwear,Shoes,Casual Shoes,Blue,Summer,2012.0,Casual,Ganuchi Men Blue Shoes,Casual Shoes,data/subset/Casual Shoes/11951.jpg
+58800,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2012.0,Casual,Highlander Men Blue Check Shirt,Shirts,data/subset/Shirts/58800.jpg
+35932,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Sports,Salomon Men X-Tracks GTX Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/35932.jpg
+44244,Women,Accessories,Bags,Handbags,Black,Summer,2012.0,Casual,Hidekraft Women Black Handbag,Handbags,data/subset/Handbags/44244.jpg
+15860,Unisex,Footwear,Shoes,Casual Shoes,Navy Blue,Spring,2013.0,Casual,Warner Bros Kids Unisex SD Fire Canvas Navy Blue Casual Shoes,Casual Shoes,data/subset/Casual Shoes/15860.jpg
+31833,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Titan Men Chronograph White Dial Watch,Watches,data/subset/Watches/31833.jpg
+48187,Women,Accessories,Bags,Handbags,Multi,Winter,2016.0,Casual,Fossil Women Multi Coloured Handbag,Handbags,data/subset/Handbags/48187.jpg
+59373,Women,Apparel,Topwear,Kurtas,Beige,Summer,2012.0,Ethnic,Vishudh Women Beige Printed Kurta,Kurtas,data/subset/Kurtas/59373.jpg
+29184,Men,Apparel,Topwear,Shirts,Blue,Summer,2012.0,Casual,United Colors of Benetton Men Blue Shirt,Shirts,data/subset/Shirts/29184.jpg
+33393,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,Baggit Women Faltu Taj Brown Handbag,Handbags,data/subset/Handbags/33393.jpg
+9961,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Nike Men Medals Crew White T-Shirts,Tshirts,data/subset/Tshirts/9961.jpg
+19770,Men,Footwear,Sandal,Sandals,Black,Spring,2012.0,Casual,ADIDAS Men Feather Black Sandals,Sandals,data/subset/Sandals/19770.jpg
+38787,Men,Footwear,Sandal,Sandals,Brown,Winter,2015.0,Casual,Woodland Men Brown Sandals,Sandals,data/subset/Sandals/38787.jpg
+32971,Men,Apparel,Topwear,Tshirts,Blue,Summer,2012.0,Casual,Angry Birds Men Printed Blue T-shirt,Tshirts,data/subset/Tshirts/32971.jpg
+11918,Men,Footwear,Sandal,Sandals,Black,Summer,2011.0,Casual,Franco Leone Men Casual Black Sandals,Sandals,data/subset/Sandals/11918.jpg
+54512,Women,Accessories,Bags,Handbags,Beige,Summer,2012.0,Casual,Lino Perros Women Beige Handbag,Handbags,data/subset/Handbags/54512.jpg
+51545,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Fastrack Women Sliver Dial Watch,Watches,data/subset/Watches/51545.jpg
+9455,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Formal,John Miller Men Red Striped Shirt,Shirts,data/subset/Shirts/9455.jpg
+24942,Girls,Apparel,Topwear,Tops,Black,Summer,2012.0,Casual,United Colors of Benetton Kids Girls Black Top,Tops,data/subset/Tops/24942.jpg
+22893,Men,Footwear,Sandal,Sandals,Khaki,Summer,2012.0,Casual,Woodland Men Khaki Casual Sandals,Sandals,data/subset/Sandals/22893.jpg
+47142,Women,Accessories,Bags,Handbags,White,Summer,2015.0,Casual,Be For Bag Women White and Pink Combo pack Tote Bags,Handbags,data/subset/Handbags/47142.jpg
+21111,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,s.Oliver Women Check Purple Top,Tops,data/subset/Tops/21111.jpg
+16191,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Puma Men Graphic White TShirt,Tshirts,data/subset/Tshirts/16191.jpg
+22699,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2011.0,Sports,Nike Men Ballista Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/22699.jpg
+28656,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Casual,Nike Men Air Quick Handle White Shoes,Sports Shoes,data/subset/Sports Shoes/28656.jpg
+24625,Women,Accessories,Bags,Handbags,Mustard,Winter,2015.0,Casual,Murcia Women Mustard Handbag,Handbags,data/subset/Handbags/24625.jpg
+8433,Women,Apparel,Topwear,Tops,Brown,Fall,2011.0,Casual,Jealous 21 Women Jealous Ebony Brown Top Brown Tops,Tops,data/subset/Tops/8433.jpg
+19260,Men,Accessories,Watches,Watches,Copper,Winter,2016.0,Casual,Guess Men Power Broker Copper Watch,Watches,data/subset/Watches/19260.jpg
+21175,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,ADIDAS Men Lowell White Sports Shoe,Sports Shoes,data/subset/Sports Shoes/21175.jpg
+18473,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2011.0,Casual,Puma Men Calcetto Black Casual Shoes,Casual Shoes,data/subset/Casual Shoes/18473.jpg
+56949,Women,Footwear,Shoes,Heels,Black,Winter,2012.0,Casual,HM Women Black Sandals,Heels,data/subset/Heels/56949.jpg
+53874,Men,Footwear,Shoes,Sports Shoes,White,Fall,2012.0,Sports,Puma MenSpeeder Ind White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/53874.jpg
+2822,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2012.0,Casual,Lee Cooper Men's Casual Felt Black Shoe,Casual Shoes,data/subset/Casual Shoes/2822.jpg
+39231,Women,Apparel,Topwear,Tops,Peach,Summer,2012.0,Casual,Femella Women Peach Top,Tops,data/subset/Tops/39231.jpg
+53870,Women,Footwear,Shoes,Heels,Brown,Winter,2012.0,Casual,Rocia Women Brown Sandals,Heels,data/subset/Heels/53870.jpg
+28735,Women,Apparel,Topwear,Kurtas,Brown,Summer,2012.0,Ethnic,W Women Printed Brown Kurta,Kurtas,data/subset/Kurtas/28735.jpg
+47564,Women,Footwear,Shoes,Heels,Brown,Winter,2012.0,Casual,Portia Women Brown Sandals,Heels,data/subset/Heels/47564.jpg
+31101,Boys,Apparel,Topwear,Shirts,Black,Summer,2012.0,Casual,Gini and Jony Boys Check Black Shirt,Shirts,data/subset/Shirts/31101.jpg
+17676,Women,Footwear,Shoes,Heels,Black,Winter,2015.0,Casual,Catwalk Women Weaved Strap Black Flats,Heels,data/subset/Heels/17676.jpg
+5352,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2011.0,Sports,Kalenji Dt. Newfeel Strap Black 09,Sports Shoes,data/subset/Sports Shoes/5352.jpg
+34748,Women,Footwear,Shoes,Casual Shoes,Black,Summer,2012.0,Casual,Puma Women Soleil Cat Black Shoes,Casual Shoes,data/subset/Casual Shoes/34748.jpg
+23935,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Lotto Men White Pesa Slip-On Casual Shoes,Casual Shoes,data/subset/Casual Shoes/23935.jpg
+59944,Men,Footwear,Shoes,Casual Shoes,Cream,Spring,2013.0,Casual,Vans Men Black & Cream Casual Shoes,Casual Shoes,data/subset/Casual Shoes/59944.jpg
+14437,Women,Footwear,Shoes,Heels,Silver,Summer,2012.0,Casual,Enroute Women Silver Wedges,Heels,data/subset/Heels/14437.jpg
+33430,Women,Accessories,Bags,Handbags,Blue,Summer,2012.0,Casual,Baggit Women Pinto Checksy Blue Sling Bag,Handbags,data/subset/Handbags/33430.jpg
+57507,Men,Footwear,Sandal,Sandals,Black,Summer,2012.0,Casual,Lee Cooper Men Black  Sandals,Sandals,data/subset/Sandals/57507.jpg
+39576,Women,Footwear,Shoes,Heels,Black,Winter,2015.0,Casual,Catwalk Women Black Flats,Heels,data/subset/Heels/39576.jpg
+21744,Unisex,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,Vans Unisex Classic Slip-On Black Casual Shoe,Casual Shoes,data/subset/Casual Shoes/21744.jpg
+29947,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Police Women White Dial Watch,Watches,data/subset/Watches/29947.jpg
+11196,Men,Accessories,Watches,Watches,Orange,Winter,2016.0,Casual,Carrera Men Strap dial Orange Watches,Watches,data/subset/Watches/11196.jpg
+47398,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,Baggit Women Brown Handbag,Handbags,data/subset/Handbags/47398.jpg
+24551,Women,Apparel,Topwear,Kurtas,Blue,Fall,2011.0,Ethnic,Diva Women Blue Printed Kurta,Kurtas,data/subset/Kurtas/24551.jpg
+16177,Men,Footwear,Sandal,Sandals,Black,Summer,2012.0,Casual,Enroute Men Leather Black Sandals,Sandals,data/subset/Sandals/16177.jpg
+40138,Boys,Apparel,Topwear,Tshirts,Yellow,Summer,2012.0,Casual,Gini and Jony Boys Under The Sun Yellow T-shirt,Tshirts,data/subset/Tshirts/40138.jpg
+9334,Women,Apparel,Topwear,Tops,Black,Fall,2011.0,Casual,Puma Women Heroes Graphic Black Tops,Tops,data/subset/Tops/9334.jpg
+9454,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Formal,John Miller Men White Check Shirt,Shirts,data/subset/Shirts/9454.jpg
+45174,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,CASIO ENTICER Men Black Dial Analogue Watch A582,Watches,data/subset/Watches/45174.jpg
+53830,Women,Apparel,Topwear,Kurtas,Lavender,Summer,2012.0,Ethnic,Folklore Women Lavender Kurta,Kurtas,data/subset/Kurtas/53830.jpg
+9064,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Formal,Mark Taylor Men Blue Striped Shirt,Shirts,data/subset/Shirts/9064.jpg
+12519,Men,Footwear,Shoes,Casual Shoes,Beige,Winter,2018.0,Casual,Red Tape Men Beige Shoes,Casual Shoes,data/subset/Casual Shoes/12519.jpg
+24858,Men,Apparel,Topwear,Shirts,White,Summer,2011.0,Formal,Mark Taylor Men White Striped Shirt,Shirts,data/subset/Shirts/24858.jpg
+32178,Men,Footwear,Shoes,Sports Shoes,White,Spring,2013.0,Sports,ADIDAS Men Vermont White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/32178.jpg
+5471,Men,Footwear,Shoes,Sports Shoes,Red,Summer,2011.0,Sports,Nike Men's Air Force Red Shoe,Sports Shoes,data/subset/Sports Shoes/5471.jpg
+25288,Women,Accessories,Bags,Handbags,Turquoise Blue,Summer,2012.0,Casual,Lino Perros Women Leatherette Turquoise Blue Sling Bag,Handbags,data/subset/Handbags/25288.jpg
+23260,Men,Accessories,Watches,Watches,Steel,Winter,2016.0,Casual,Maxima Ssteele Men Watch,Watches,data/subset/Watches/23260.jpg
+9792,Men,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Spykar Men Ranger With Red Stitch Line White Shirts,Shirts,data/subset/Shirts/9792.jpg
+58645,Women,Apparel,Topwear,Kurtas,White,Summer,2012.0,Ethnic,ALayna Women Printed White Kurta,Kurtas,data/subset/Kurtas/58645.jpg
+47613,Women,Footwear,Shoes,Heels,Brown,Winter,2012.0,Casual,Portia Women Brown Heels,Heels,data/subset/Heels/47613.jpg
+28448,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,Kiara Women Brown Handbag,Handbags,data/subset/Handbags/28448.jpg
+18558,Women,Footwear,Shoes,Heels,Tan,Winter,2015.0,Casual,Catwalk Women Casual Tan Heels,Heels,data/subset/Heels/18558.jpg
+51517,Women,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fastrack Women Black Dial Watch N2298sm03,Watches,data/subset/Watches/51517.jpg
+10806,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Wrangler Men Stampede Printed Stripe Green Shirts,Shirts,data/subset/Shirts/10806.jpg
+18881,Women,Apparel,Topwear,Shirts,White,Fall,2011.0,Casual,Arrow Woman Lana White Shirt,Shirts,data/subset/Shirts/18881.jpg
+28661,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Casual,Nike Men Air Max Full Court 2 Black Shoes,Sports Shoes,data/subset/Sports Shoes/28661.jpg
+4447,Men,Footwear,Sandal,Sandals,Black,Summer,2011.0,Casual,Nike Men Extra Wilderness Black Orange Sandal,Sandals,data/subset/Sandals/4447.jpg
+45341,Women,Footwear,Shoes,Heels,Beige,Summer,2016.0,Casual,Cobblerz Women Beige & Green Sandals,Heels,data/subset/Heels/45341.jpg
+22778,Women,Apparel,Topwear,Kurtas,Yellow,Summer,2011.0,Ethnic,BIBA Women Printed Yellow Kurta,Kurtas,data/subset/Kurtas/22778.jpg
+26629,Unisex,Footwear,Shoes,Casual Shoes,Black,Summer,2012.0,Casual,Puma Kids Unisex Future Cat M2 Black Casual Shoes,Casual Shoes,data/subset/Casual Shoes/26629.jpg
+31955,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Sports,Nike Men Zoom Elite Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/31955.jpg
+31620,Men,Apparel,Topwear,Shirts,Grey,Summer,2012.0,Formal,Indigo Nation Men Grey Shirt,Shirts,data/subset/Shirts/31620.jpg
+22081,Women,Apparel,Topwear,Kurtas,Sea Green,Fall,2011.0,Ethnic,Vishudh Women Sea Green Floral Printed Kurta,Kurtas,data/subset/Kurtas/22081.jpg
+15513,Men,Footwear,Shoes,Casual Shoes,Brown,Fall,2011.0,Casual,Rockport Men Utara L2T Brown Casual Shoes,Casual Shoes,data/subset/Casual Shoes/15513.jpg
+25412,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,Nike Men White Sports Shoes,Sports Shoes,data/subset/Sports Shoes/25412.jpg
+23179,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Mark Taylor Men Yellow Printed T-shirt,Tshirts,data/subset/Tshirts/23179.jpg
+7600,Women,Footwear,Shoes,Sports Shoes,White,Summer,2011.0,Sports,Nike Women's City Cou White Shoe,Sports Shoes,data/subset/Sports Shoes/7600.jpg
+36687,Men,Footwear,Sandal,Sandals,Navy Blue,Summer,2012.0,Casual,Spalding Men Grey And  Navy Blue Sandals,Sandals,data/subset/Sandals/36687.jpg
+42995,Women,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Sports,Nike Women Black Air Total Sports Shoes,Sports Shoes,data/subset/Sports Shoes/42995.jpg
+11941,Men,Footwear,Sandal,Sandals,Tan,Fall,2011.0,Casual,Ganuchi Men Casual Tan Sandals,Sandals,data/subset/Sandals/11941.jpg
+6220,Men,Apparel,Topwear,Tshirts,Orange,Summer,2011.0,Casual,Lee Men's Believe Burnt Orange T-shirt,Tshirts,data/subset/Tshirts/6220.jpg
+15415,Women,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,FILA Women Tenet Black Sports Shoes,Sports Shoes,data/subset/Sports Shoes/15415.jpg

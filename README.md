@@ -25,6 +25,18 @@ The system extracts deep visual embeddings using a **Fine-Tuned ResNet50** model
 
 ---
 
+<div align="center">
+
+## 🚀 Live Demo
+
+### 🌐 <a href="https://visual-recommendation-system-finetuned.streamlit.app/" target="_blank">Launch the Streamlit App</a>
+
+<img src="https://img.shields.io/badge/Open-Live%20Demo-red?style=for-the-badge&logo=streamlit"/>
+
+</div>
+
+---
+
 ## ✨ Features
 
 - 📷 Upload any fashion product image
@@ -57,28 +69,26 @@ Cosine Similarity Search
       ▼
 Top-5 Similar Products
 ```
-
----
-
 # 🖥️ Demo
 
-### Home Page
+## 🏠 Home Page
 
-> Add screenshot here
-
-```
-assets/home.png
-```
-
-### Recommendation Result
-
-> Add screenshot here
-
-```
-assets/result.png
-```
+![Home Page](assets/home.png)
 
 ---
+
+## 📤 Upload Product Image
+
+![Upload Image](assets/upload.png)
+
+---
+
+## 🎯 Recommendation Results
+
+![Recommendation Results](assets/result.png)
+
+---
+
 
 # 📂 Project Structure
 
@@ -254,7 +264,7 @@ https://github.com/abhikriti15
 
 LinkedIn
 
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/abhikritisaxena15/
 
 ---
 

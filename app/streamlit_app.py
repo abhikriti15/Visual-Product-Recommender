@@ -6,6 +6,14 @@ Visual Product Recommendation System
 Author : Abhikriti Saxena
 """
 
+import sys
+import os
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from configs.config import EMBEDDINGS_DIR
+from models.resnet50_feature_extractor import ResNet50FeatureExtractor
+
 import base64
 import pickle
 import tempfile
